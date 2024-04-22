@@ -1,4 +1,4 @@
-# Simple Login Application (SprringBoot-project-using-Mysql)
+# Simple Login Application (SpringBoot-project-using-Mysql)
 
 The Login App is a simple web application built using Spring Boot and JSP that allows users to register, login, and recieve the Feedback from the user.
 
